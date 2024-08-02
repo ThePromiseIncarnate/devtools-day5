@@ -27,13 +27,34 @@ h1 {
   background-color: black;
 }
 
-/*Problem 7:  */
-img#largeImage {
-  width: 1200px; 
-  height: auto;
+.unused-class-4,
+.unused-class-5,
+.unused-class-6 {
+  color: blue;
+  background-color: black;
 }
+
+.unused-class-7,
+.unused-class-8,
+.unused-class-9 {
+  color: blue;
+  background-color: black;
+}
+
+/*Problem 7:  */
+#img-container {
+  width: 600px;
+  margin: auto;
+}
+
+img#largeImage {
+  width: 100%;
+}
+
+
 
 /* Problem 8: */
 body div#profileContainer > h2 {
   font-size: 2em;
 }
+

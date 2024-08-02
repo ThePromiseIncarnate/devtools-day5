@@ -22,8 +22,9 @@ document.addEventListener('DOMContentLoaded', function () {
   let sum = 0;
   for (let i = 0; i < 100000; i++) {
     sum += i;
+    // Problem 11 (Consider problem 3):
+    $('body output').append(`<p>The sum is: ${sum}</p>`);
   }
 
-  // Problem 11 (Consider problem 3):
-  $('body').append(`<p>The sum is: ${sum}</p>`);
+
 });
