@@ -1,4 +1,4 @@
-/* Problem 5: */
+/* Problem 6: (not found in Dev Tools)*/
 body {
   font-family: Arial, sans-serif !important;
   margin: 0 !important;
@@ -19,7 +19,7 @@ h1 {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-/*Problem 7:  */
+/*Problem 7: related to  */
 #img-container {
   width: 600px;
   margin: auto;
@@ -30,13 +30,11 @@ img#largeImage {
 }
 
 
-
-/* Problem 8: */
 body div#profileContainer > h2 {
   font-size: 2em;
 }
 
-/* Problem: */
+/* Problem: 8*/
 .unused-class-1,
 .unused-class-2,
 .unused-class-3 {
