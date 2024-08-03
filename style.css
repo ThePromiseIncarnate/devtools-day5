@@ -35,12 +35,12 @@ body div#profileContainer > h2 {
 }
 
 /* Problem: 8 Hint, see Dev Tools LightHouse*/
-.unused-class-1,
+/* .unused-class-1,
 .unused-class-2,
 .unused-class-3 {
   color: blue;
   background-color: black;
-}
+} */
 
 @media (min-width: 576px) {
   .col-sm {

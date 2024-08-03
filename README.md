@@ -18,11 +18,35 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 1:
 
-- Description: [Your explanation here]
+- Description: No meta data.
 
 #### Problem 2:
 
+- Description: No title.
+
+#### Problem 3:
+
+- Description: '.inline-style' isn't used.
+
+#### Problem 4:
+
+- Description: Image has no alt text.
+
+#### Problem 5:
+
+- Description: Uses third-party cookies.
+
+#### Problem 6:
+
 - Description: [Your explanation here]
+
+#### Problem 7:
+
+- Description: Image is improperly sized!
+
+#### Problem 8:
+
+- Description: Unused CSS.
 
 [Continue with the remaining problems]
 
@@ -32,11 +56,35 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 1:
 
-- Solution: [Your proposed solution here]
+- Solution: Add meta data. 
 
 #### Problem 2:
 
+- Solution: Add title.
+
+#### Problem 3:
+
 - Solution: [Your proposed solution here]
+
+#### Problem 4:
+
+- Solution: Add alt text. 
+
+#### Problem 5:
+
+- Solution: Reduce third-party cookies by serving some files myself.
+
+#### Problem 6:
+
+- Solution: [Your proposed solution here]
+
+#### Problem 7:
+
+- Solution: [Your proposed solution here]
+
+#### Problem 8:
+
+- Solution: Remove unused CSS.
 
 [Continue with solutions for the remaining problems]
 
