@@ -22,7 +22,7 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 2:
 
-- Description: No title.
+- Description: CSS in wrong place.
 
 #### Problem 3:
 
@@ -38,7 +38,7 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 6:
 
-- Description: [Your explanation here]
+- Description: Superfluous "!important" in CSS.
 
 #### Problem 7:
 
@@ -67,7 +67,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 2:
 
-- Solution: Add title.
+- Solution: Move CSS above title.
 
 #### Problem 3:
 
@@ -83,7 +83,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 6:
 
-- Solution: [Your proposed solution here]
+- Solution: Remove the superfluous "!important" in CSS.
 
 #### Problem 7:
 
@@ -103,7 +103,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 ### Step 4: Reflect
 
-After completing the exercise, write a brief reflection on what you learned from this debugging and optimization process. Discuss any new insights you gained and how you might apply these skills in future projects.
+This was a very difficult and tedious assignment, that just leaves me feeling like there's basically no point to fixing any of this stuff unless it's actually required? 
 
 ## Submission
 
