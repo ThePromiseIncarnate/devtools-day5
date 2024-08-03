@@ -48,7 +48,14 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 - Description: Unused CSS.
 
-[Continue with the remaining problems]
+#### Problem 9:
+
+- Description: N/A
+
+#### Problem 10:
+
+- Description: $ is not defined
+    at HTMLDocument anonymous. Block of code isn't used.
 
 ### Step 3: Propose Solutions
 
@@ -64,7 +71,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 3:
 
-- Solution: [Your proposed solution here]
+- Solution: Delete unused CSS.
 
 #### Problem 4:
 
@@ -80,13 +87,19 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 7:
 
-- Solution: [Your proposed solution here]
+- Solution: Change the size.
 
 #### Problem 8:
 
 - Solution: Remove unused CSS.
 
-[Continue with solutions for the remaining problems]
+#### Problem 9:
+
+- Solution: N/A
+
+#### Problem 10:
+
+- Solution: Delete unused JavaScript. 
 
 ### Step 4: Reflect
 
