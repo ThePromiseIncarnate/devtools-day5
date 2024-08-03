@@ -19,7 +19,7 @@ h1 {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-/*Problem 7: related to  */
+/*Issue 7: Not necessarily a problem here, but related to a problem in HTML. */
 #img-container {
   width: 600px;
   margin: auto;
@@ -34,7 +34,7 @@ body div#profileContainer > h2 {
   font-size: 2em;
 }
 
-/* Problem: 8*/
+/* Problem: 8 Hint, see Dev Tools LightHouse*/
 .unused-class-1,
 .unused-class-2,
 .unused-class-3 {
